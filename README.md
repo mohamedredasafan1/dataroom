@@ -1,6 +1,6 @@
 # EGX30 Stock Market Analysis (2021–2026)
 
-> Data-driven analysis of Egypt's top 30 publicly traded stocks — trends, risk, correlations, and the impact of currency devaluation events.
+> Data-driven analysis of Egypt's top 30 publicly traded stocks , trends, risk, correlations, and the impact of currency devaluation events.
 
 ---
 
@@ -37,11 +37,11 @@ This project analyzes **10 major stocks** from the **Egyptian Stock Exchange (EG
  +---------------------------------------------------+
 ```
 
-1. **Strong upward trends** — All stocks grew significantly; SWDY surged ~1900%, TMGH ~1700%.
-2. **No free lunch** — Higher returns come with higher daily volatility.
-3. **Market moves as one** — Weak-to-moderate positive correlations across all sectors; the market reacts to macro events as a single unit.
-4. **Currency devaluation is the dominant driver** — The Jan 2024 devaluation (EGP 30→50/USD) nearly tripled TMGH's daily volatility.
-5. **Trends are real** — T-tests rejected H₀ (random walk) for all 5 tested stocks (p < 0.05).
+1. **Strong upward trends** , All stocks grew significantly; SWDY surged ~1900%, TMGH ~1700%.
+2. **No free lunch** , Higher returns come with higher daily volatility.
+3. **Market moves as one** , Weak-to-moderate positive correlations across all sectors; the market reacts to macro events as a single unit.
+4. **Currency devaluation is the dominant driver** , The Jan 2024 devaluation (EGP 30→50/USD) nearly tripled TMGH's daily volatility.
+5. **Trends are real** , T-tests rejected H₀ (random walk) for all 5 tested stocks (p < 0.05).
 
 ## Devaluation Events
 
@@ -53,7 +53,7 @@ This project analyzes **10 major stocks** from the **Egyptian Stock Exchange (EG
     impact             impact            impact
 ```
 
-**Jan 2024 — Pre vs Post Volatility (30-day window):**
+**Jan 2024 , Pre vs Post Volatility (30-day window):**
 
 | Stock | Pre (%) | Post (%) | Change |
 |-------|---------|----------|--------|
